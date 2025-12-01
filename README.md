@@ -1,6 +1,6 @@
 # Love First, Know Later
 
-🎯 **[Try the Demo →]([https://cupid-l55g.onrender.com](https://cupid-l55g.onrender.com))**  | 📧 info.breathingcore@gmail.com
+🎯 **[Try the Demo →](https://cupid-l55g.onrender.com)**  | 📧 info.breathingcore@gmail.com
 
 > **PersonaNLP Workshop @ NeurIPS 2025**  
 > Persona-Based Romantic Compatibility Through LLM Text World Engines
