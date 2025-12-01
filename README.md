@@ -4,6 +4,8 @@
 
 > **PersonaNLP Workshop @ NeurIPS 2025**  
 > Persona-Based Romantic Compatibility Through LLM Text World Engines
+>
+> [Paper Preprint](https://www.researchgate.net/publication/398121682_Love_First_Know_Later_Persona-Based_Romantic_Compatibility_Through_LLM_Text_World_Engines)
 
 ---
 
